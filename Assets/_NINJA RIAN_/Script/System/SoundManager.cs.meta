@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e2c27426c23a9a64aa481cdb251e8976
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - beginSoundInMainMenu: {fileID: 8300000, guid: 33bc9e8a57fac3f489dec4434b7782d7,
+      type: 3}
+  - musicsMenu: {instanceID: 0}
+  - musicWorldChoose: {instanceID: 0}
+  - musicLevelChoose: {instanceID: 0}
+  - musicsGame: {instanceID: 0}
+  - musicFinishPanel: {instanceID: 0}
+  - soundPurchased: {instanceID: 0}
+  - soundUpgrade: {instanceID: 0}
+  - soundNotEnoughCoin: {instanceID: 0}
+  - soundClick: {instanceID: 0}
+  - soundGamefinish: {instanceID: 0}
+  - soundGameover: {instanceID: 0}
+  - soundCheckpoint: {instanceID: 0}
+  - soundTimeLess: {instanceID: 0}
+  - soundTimeUp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
